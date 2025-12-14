@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/actions/" />
+  <Folder Name="/actions/">
+    <File Path=".github/pull_request_template.md" />
+  </Folder>
   <Folder Name="/actions/ISSUE_TEMPLATE/">
     <File Path=".github/ISSUE_TEMPLATE/10_bug_report.yml" />
     <File Path=".github/ISSUE_TEMPLATE/20_feature_request.yml" />
